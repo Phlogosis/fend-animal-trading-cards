@@ -1,1 +1,60 @@
 /* add your CSS here */
+
+.di { border: 1px solid red; }
+
+.font {
+    font-family: sans-serif;
+}
+
+.card-width {
+    width: 300px;
+}
+
+.myitalic {
+    font-style: italic;
+}
+
+.mybold {
+    font-weight: bold;
+}
+
+.myshadow {
+    box-shadow: 0px 20px 20px gray;
+}
+
+.mypadding {
+    padding: 20px 20px 20px 20px;
+}
+
+.myinline {
+    display: table;    
+}
+
+.mycardborder {
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.noshadow {
+    box-shadow: 0px 0px 0px #FFFFFF;
+}
+
+.mymargin {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mycardart {
+;
+}
+
+.mycontainer {
+    height: 250px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.myliststyle {
+    list-style: none;
+}
