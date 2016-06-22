@@ -1,6 +1,6 @@
 /* add your CSS here */
 
-.di { border: 1px solid red; }
+/* .debug { border: 1px solid red; } */
 
 .font {
     font-family: sans-serif;
@@ -10,51 +10,47 @@
     width: 300px;
 }
 
-.myitalic {
+.my-italic {
     font-style: italic;
 }
 
-.mybold {
+.my-bold {
     font-weight: bold;
 }
 
-.myshadow {
+.my-shadow {
     box-shadow: 0px 20px 20px gray;
 }
 
-.mypadding {
-    padding: 20px 20px 20px 20px;
+.my-padding {
+    padding: 20px;
 }
 
-.myinline {
+.my-inline {
     display: table;    
 }
 
-.mycardborder {
+.my-card-border {
     border: 1px solid grey;
     border-radius: 5px;
 }
 
-.noshadow {
+.no-shadow {
     box-shadow: 0px 0px 0px #FFFFFF;
 }
 
-.mymargin {
+.my-margin {
     margin-left: auto;
     margin-right: auto;
 }
 
-.mycardart {
-;
-}
-
-.mycontainer {
+.my-container {
     height: 250px;
     overflow: hidden;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.myliststyle {
+.my-list-style {
     list-style: none;
 }
